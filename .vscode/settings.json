@@ -1,0 +1,6 @@
+{
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestPath": "pytest",
+    "python.defaultInterpreterPath": "${workspaceFolder}\\venv\\Scripts\\python.exe",
+    // "python.testing.cwd": "${workspaceFolder}\\unit_tests",
+}
